@@ -2,13 +2,13 @@
 
 ## A+ Session
 
-[App T+](https://docs.google.com/presentation/d/1LZon85MyDT3KEUaJ8pSoS1sTzsZxjMEwNBjDqe7e5lU/edit?usp=sharing)
+[App T+ Session 2021](https://docs.google.com/presentation/d/1LZon85MyDT3KEUaJ8pSoS1sTzsZxjMEwNBjDqe7e5lU/edit?usp=sharing)
 
 ## Native Android
 
 ### FlowChart
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0267580-9183-4a2f-abcf-74dce4c25dcc/NativeMap.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0267580-9183-4a2f-abcf-74dce4c25dcc/NativeMap.jpeg)
+![Android Flowchart](assets/native_roadmap.png)
 
 ### Android Studio Installation
 
@@ -46,7 +46,7 @@
 
 ### RoadMap
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca0683f0-fef2-4ef0-899f-0a4aa73477d4/flutter_roadmap.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca0683f0-fef2-4ef0-899f-0a4aa73477d4/flutter_roadmap.jpg)
+![Flutter Roadmap](assets/flutter_roadmap.png)
 
 [Roadmap To Become A Flutter Developer (Resources for Beginners)](https://medium.com/flutterdevs/roadmap-to-become-a-flutter-developer-resources-for-beginners-ccb68718c84b)
 
@@ -78,7 +78,7 @@
 
 ### Swift
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98b78bdc-e384-479c-b48a-d0ffcbd61998/swift-og.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98b78bdc-e384-479c-b48a-d0ffcbd61998/swift-og.png)
+![Swift Logo](assets/swift_logo.png)
 
 [How to learn Swift programming for free in 2020](https://www.hackingwithswift.com/articles/2/how-to-learn-swift-programming-for-free)
 
