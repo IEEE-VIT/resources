@@ -1,6 +1,8 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fcf36f13-0400-4062-ad92-271a1e47dd34/51DB1D3F-432F-4674-BFAA-E6850DE42BC3.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fcf36f13-0400-4062-ad92-271a1e47dd34/51DB1D3F-432F-4674-BFAA-E6850DE42BC3.jpeg)
+# Cybersecurity
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e684b6d-34aa-4bf6-a961-cd2e2468dd57/9DAB0B38-B658-4FB1-9036-36CEA5495208.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e684b6d-34aa-4bf6-a961-cd2e2468dd57/9DAB0B38-B658-4FB1-9036-36CEA5495208.jpeg)
+![Roadmap](assets/csec_roadmap.jpeg)
+
+![Hackerman Meme](assets/hackerman.jpeg)
 
 # Networking
 
@@ -72,7 +74,7 @@
 
 [Seytonic](https://youtube.com/c/Seytonic)
 
-[](https://youtube.com/c/hak5)
+[Hak5 YT Channel](https://youtube.com/c/hak5)
 
 [Motherboard](https://youtube.com/motherboard)
 
@@ -90,6 +92,6 @@
 
 [Null Byte](https://youtube.com/c/NullByteWHT)
 
-[](https://youtube.com/c/HackerSploit)
+[HackerSploit](https://youtube.com/c/HackerSploit)
 
 [Loi Liang Yang](https://youtube.com/c/LoiLiangYang)

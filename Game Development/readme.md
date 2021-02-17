@@ -1,4 +1,6 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5502b9fa-88a1-4054-a260-2c8df227c72b/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5502b9fa-88a1-4054-a260-2c8df227c72b/Untitled.png)
+# Game Development
+
+![Gamedev Roadmap](assets/gamedev_roadmap.png)
 
 # **Unity**
 
@@ -102,8 +104,8 @@ Best way to put what you've learnt into practice? Get your hands dirty.
 
 Go through these playlists to learn anything about game development. Look up these videos if you want to add a particular functionality or component to your game.
 
-[](https://www.youtube.com/user/Brackeys)
+[Brackeys YT Channel](https://www.youtube.com/user/Brackeys)
 
-[](https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg)
+[Jason Weilman YT Channel](https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg)
 
-[Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ)
+[Dani YT Channel](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ)

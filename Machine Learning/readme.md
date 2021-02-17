@@ -1,8 +1,10 @@
+# Machine Leanring
+
 ---
 
 ### AI vs ML vs DL vs NN
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7fa85a43-79e2-4bbf-98e1-3233a0939065/MLvsAIvsDL.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7fa85a43-79e2-4bbf-98e1-3233a0939065/MLvsAIvsDL.png)
+![ML Banner](assets/ml_banner.jpeg)
 
 ### A Roadmap for you
 
@@ -106,7 +108,7 @@ As soon as you start getting comfortable with reading/developing ML models,heavi
 
 ## UCI Repo
 
-[](https://archive.ics.uci.edu/ml/index.php)
+[UCI Repo Link](https://archive.ics.uci.edu/ml/index.php)
 
 Great repo of data sets.
 Kaggle is another good source for datasets.

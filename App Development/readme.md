@@ -18,7 +18,7 @@
 
 [Kotlin Bootcamp for Programmers | Udacity Free Courses](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 
-[](https://developer.android.com/courses)
+[Google Android Developers Course](https://developer.android.com/courses)
 
 ### Java - Android Basics
 
@@ -108,7 +108,7 @@
 
 [Yogesh Patel](https://www.youtube.com/channel/UCvtOhkUpvgvZcFWntgW0VMw)
 
-[](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ)
+[YouTube Channel](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ)
 
 [Kilo Loco](https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA)
 
@@ -124,7 +124,7 @@
 
 [Async JS Crash Course - Callbacks, Promises, Async Await](https://youtu.be/PoRJizFvM7s)
 
-[](https://eloquentjavascript.net/2nd_edition/Eloquent_JavaScript_small.pdf)
+[Eloquent Js PDF](https://eloquentjavascript.net/2nd_edition/Eloquent_JavaScript_small.pdf)
 
 Advisable to read/skim through at least the first six chapters and the 9th chapter for more detailed knowledge on JS
 

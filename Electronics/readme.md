@@ -1,6 +1,8 @@
+# Electronics
+
 ---
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be0604cc-3205-44ad-99e4-2b6eadf86fbd/Frame_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be0604cc-3205-44ad-99e4-2b6eadf86fbd/Frame_1_(1).png)
+![Major Fields](assets/electronics.png)
 
 ---
 
