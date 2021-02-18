@@ -10,7 +10,7 @@
 
 ## Road Map
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43e9364a-4ffd-44d7-8830-427426abeecb/Roadmap_2020-1.png](https://www.notion.so/Web-Dev-601bec0b261a4458b68812d03736ae07#5e9d6a0184624da68506710cab409a42)
+![RoadMap](assets/web_asset.png)
 
 # Advance roadmaps
 
