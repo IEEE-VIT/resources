@@ -15,7 +15,7 @@ You can find a pretty rendered version of the same on [Notion](https://www.notio
 - [App Development](https://github.com/IEEE-VIT/resources/tree/master/App%20Development)
 - [Augmented Reality](https://github.com/IEEE-VIT/resources/tree/master/Augmented%20Reality)
 - [Cybersecurity](https://github.com/IEEE-VIT/resources/tree/master/Cybersecurity)
-- [Electornics](https://github.com/IEEE-VIT/resources/tree/master/Electronics)
+- [Electronics](https://github.com/IEEE-VIT/resources/tree/master/Electronics)
 - [Game Development](https://github.com/IEEE-VIT/resources/tree/master/Game%20Development)
 - [Machine Learning](https://github.com/IEEE-VIT/resources/tree/master/Machine%20Learning)
 - [Web Development](https://github.com/IEEE-VIT/resources/tree/master/Web%20Development)
